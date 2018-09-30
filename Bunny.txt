@@ -1,3 +1,3 @@
 you can also use the index.php on the bash bunny cause the images are in base64
 and there isn't external resuorses.
-only change the name index.php to portal.html and configure the <form> 
+only change the name index.php to portal.html
